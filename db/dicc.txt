@@ -8018,3 +8018,9 @@ Zuqiu_Tianxia/1025.php
 ZyklonShell.php
 ~/
 ~admin/
+.aws/credentials
+/app/__pycache__/
+/apps/__pycache__/
+hystrix
+prometheus
+proxy.stream?origin=https://google.com
